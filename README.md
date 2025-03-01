@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Electrical Engineer | Aspiring AI Engineer
 ------------------------------------------
 
-👋I'm Chaima, a tech enthusiast with a deep passion for artificial intelligence and its potential to transform the world.
+I'm Chaima, a tech enthusiast with a deep passion for artificial intelligence and its potential to transform the world. With a diploma in Electrical Engineering, I bring a strong foundation in problem-solving, analytical thinking, and technical expertise. Now, I’m excited to channel these skills into the field of AI and machine learning.
 
-🔧 With a diploma in Electrical Engineering, I bring a strong foundation in problem-solving, analytical thinking, and technical expertise. Now, I’m excited to channel these skills into the field of AI and machine learning.
+<br><br>
 
 * 🌍  I'm based in Tunisie
 * ✉️  You can contact me at [chaima.yahiaoui@enis.tn](mailto:chaima.yahiaoui@enis.tn)
@@ -15,7 +15,7 @@ Electrical Engineer | Aspiring AI Engineer
 <a href="https://www.github.com/ChaimaYa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ChaimaYa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-###
+<br><br>
 
 <img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FwYWNrZXJiZTQ0bnlhdjA0dTJmN2o3MDFlZG02NjJmamdua3l3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif"  />
 
@@ -47,16 +47,7 @@ src="https://img.shields.io/github/followers/ChaimaYa?logo=github&style=for-the-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
 </div>
 
-###
-
-<div align="left">
-  <a href="chaima.yahiaoui@enis.tn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/chaima-yahiaoui-4084b423a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<br><br>
 
 ### Badges
 
