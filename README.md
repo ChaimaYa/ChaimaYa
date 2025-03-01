@@ -15,13 +15,13 @@ Electrical Engineer | Aspiring AI Engineer
 <a href="https://www.github.com/ChaimaYa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ChaimaYa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+###
+
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FwYWNrZXJiZTQ0bnlhdjA0dTJmN2o3MDFlZG02NjJmamdua3l3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif"  />
+
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/chaima-yahiaoui-4084b423a" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-###
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FwYWNrZXJiZTQ0bnlhdjA0dTJmN2o3MDFlZG02NjJmamdua3l3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif"  />
 
 ### Skills
 
