@@ -16,10 +16,6 @@ I'm Chaima, a tech enthusiast with a deep passion for artificial intelligence an
   <a href="https://www.github.com/ChaimaYa" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/ChaimaYa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wakatime.com/@46de92a5-f739-44f0-87af-6ac118b2e9c4" target="_blank" rel="noreferrer">
-    <img src="https://wakatime.com/badge/user/46de92a5-f739-44f0-87af-6ac118b2e9c4.svg" alt="WakaTime Stats" />
-  </a>
 </p>
 
 <p>&nbsp;</p>
