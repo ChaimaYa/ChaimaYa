@@ -1,63 +1,84 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chaima Yahiaoui
-=======================================================================================================================================
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
-Electrical Engineer | Aspiring AI Engineer
-------------------------------------------
+<h1 align="center">Hey there !<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Chaima</h1>
 
-I'm Chaima, a tech enthusiast with a deep passion for artificial intelligence and its potential to transform the world. With a diploma in Electrical Engineering, I bring a strong foundation in problem-solving, analytical thinking, and technical expertise. Now, I’m excited to channel these skills into the field of AI and machine learning.
+<h3 align="center">Electrical Engineer | Aspiring AI Engineer</h3>
 
-<p>&nbsp;</p>
+******************************************
 
-* 🌍  I'm based in Tunisie
-* ✉️  You can contact me at [chaima.yahiaoui@enis.tn](mailto:chaima.yahiaoui@enis.tn)
-* 🧠  I'm learning AI and ML algorithms
+### 🚀 About Me
 
-<p align="left">
+<p align="right">
   <a href="https://www.github.com/ChaimaYa" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/ChaimaYa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
   </a>
 </p>
 
-<p>&nbsp;</p>
+I'm Chaima, a tech enthusiast with a deep passion for artificial intelligence and its potential to transform the world. With a diploma in Electrical Engineering, I bring a strong foundation in problem-solving, analytical thinking, and technical expertise. Now, I’m excited to channel these skills into the field of AI and machine learning.
 
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FwYWNrZXJiZTQ0bnlhdjA0dTJmN2o3MDFlZG02NjJmamdua3l3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif"  />
+* 🌍  I'm based in Tunisie
+* 🧠  I'm learning AI and ML algorithms
 
-### Socials
+*************************************************************************************************************************************************************************************
 
-<p align="left"> <a href="https://www.linkedin.com/in/chaima-yahiaoui-4084b423a" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<img align="right" height="400" src="https://camo.githubusercontent.com/e48401e4018d3287d387998dcbdd928fbe90d0a686ea201ac1dc58f00e5d85c9/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67"  />
 
-### Skills
+### 🧠 My Skills
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+
+  <p class="clear">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="opencv logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  
+  <p class="clear">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
+  
+  <p class="clear">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="50" alt="matlab logo"  />
+  
+  <p class="clear">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50" alt="raspberrypi logo"  />
+
+  <p class="clear">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" alt="photoshop logo"  />
 </div>
 
-<p>&nbsp;</p>
+*************************************************************************************************************************************************************************************
 
-### Badges
+### 📊 GitHub Stats
 
-<b>My GitHub Stats</b>
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ChaimaYa&show_icons=true&theme=holi)
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ChaimaYa)](https://github.com/pranesh-2005/github-readme-stats-fast)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ChaimaYa&show_icons=true&theme=holi)
 
-<a href="http://www.github.com/ChaimaYa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaimaYa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+*************************************************************************************************************************************************************************************
 
-<a href="https://github.com/ChaimaYa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaYa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 🔥 Contribution Streak
+
+<a href="http://www.github.com/ChaimaYa"><img src="https://streak-stats.demolab.com?user=ChaimaYa&theme=github-dark" alt="GitHub Streak" /></a>
+
+  
+*************************************************************************************************************************************************************************************
+
+### 🔗 Connect with Me
+
+<p align="center"><a href="www.linkedin.com/in/chaima-yahiaoui-4084b423a" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/21621694368187" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:chaima.yahiaoui@enis.tn" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<p align="center">💻 Always open to collaborating on exciting <strong>AI or ML projects</strong>. Let’s innovate together!</p>
+
